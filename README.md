@@ -1,6 +1,6 @@
 ### Hi there <img src="https://raw.githubusercontent.com/haykbit/haykbit/master/wave.gif" width="30px"> 
 
-I'm Sebastian Elias, a former small business owner and also almost chef who got instantly addicted Web Development as soon as it caught my eye . I have studied a Master in Full Stack Developing at Assembler School of Software Engineering.
+I'm Sebastian Elias Brupbacher, a former small business owner and also almost chef who got instantly addicted Web Development as soon as it caught my eye . I have studied a Master in Full Stack Developing at Assembler School of Software Engineering.
 
 🌱 I’m currently looking to find my first job as a Front-end Developer.     
 💬 Ask me about anything you need!.               
