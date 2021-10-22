@@ -2,10 +2,10 @@
 
 I'm Sebastian Elias, a former small business owner and also almost chef who got instantly addicted Web Development as soon as it caught my eye . I have studied a Master in Full Stack Developing at Assembler School of Software Engineering.
 
-🔭 I’m currently working on a website for Real Estate Investing.     
 🌱 I’m currently looking to find my first job as a Front-end Developer.     
 💬 Ask me about anything you need!.               
-📫 How to reach me: sebastian.eliasb@gmail.com.    
+📫 How to reach me: sebastian.eliasb@gmail.com.   
+⚡ Fun fact: I have three nationalities and speak native English and Spanish
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sebastianeliasb&show_icons=true)
 
